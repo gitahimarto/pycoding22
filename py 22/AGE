@@ -1,0 +1,10 @@
+
+print('what is your age')
+
+age = int(input())
+
+YOB = 2022 - age 
+
+EY = 2022+ (80-age)
+
+print(YOB, EY)
